@@ -10,6 +10,6 @@ public:
 	~Socket(void);
 
 public:
-	int Init(char*, int);
+	int Init(const char* sip, int port);
 
 };
