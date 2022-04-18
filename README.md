@@ -1,2 +1,2 @@
-# portf
-포트폴리오
+# etc
+Etc
